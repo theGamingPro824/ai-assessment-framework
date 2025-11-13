@@ -320,4 +320,4 @@ Planned directories/files:
 
 ---
 
-**Questions about the structure?** Open a [Discussion](https://github.com/YOUR_ORG/ai-assessment-framework/discussions)!
+**Questions about the structure?** Open a [Discussion](https://github.com/zlho/ai-assessment-framework/discussions)!

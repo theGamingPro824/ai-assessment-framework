@@ -245,8 +245,8 @@ The framework provides structure without bureaucracy, enabling fast, secure AI d
 
 ## 💬 Community & Support
 
-- **Issues:** Report bugs or request features via [GitHub Issues](https://github.com/YOUR_ORG/ai-assessment-framework/issues)
-- **Discussions:** Share experiences and ask questions in [Discussions](https://github.com/YOUR_ORG/ai-assessment-framework/discussions)
+- **Issues:** Report bugs or request features via [GitHub Issues](https://github.com/zlho/ai-assessment-framework/issues)
+- **Discussions:** Share experiences and ask questions in [Discussions](https://github.com/zlho/ai-assessment-framework/discussions)
 - **Contributing:** See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📄 License
@@ -290,7 +290,7 @@ Just maintain the license and copyright notice.
 
 **Creator:** Cesar (Security Architect)
 **Organization:** AL Solutions
-**Repository:** [github.com/YOUR_ORG/ai-assessment-framework](https://github.com/YOUR_ORG/ai-assessment-framework)
+**Repository:** [github.com/zlho/ai-assessment-framework](https://github.com/zlho/ai-assessment-framework)
 
 For enterprise support, custom implementations, or consulting: [Contact Us](mailto:cesar@alsolutions.com)
 

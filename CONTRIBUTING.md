@@ -35,7 +35,7 @@ We are committed to providing a welcoming and harassment-free experience for eve
 ### 🐛 Reporting Bugs
 
 **Before submitting a bug report:**
-- Check existing [Issues](https://github.com/YOUR_ORG/ai-assessment-framework/issues) to avoid duplicates
+- Check existing [Issues](https://github.com/zlho/ai-assessment-framework/issues) to avoid duplicates
 - Gather information about the problem
 
 **When submitting a bug report, include:**
@@ -177,13 +177,13 @@ Advice for others in similar situations
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-assessment-framework.git
+   git clone https://github.com/zlho/ai-assessment-framework.git
    cd ai-assessment-framework
    ```
 
 3. Add upstream remote:
    ```bash
-   git remote add upstream https://github.com/YOUR_ORG/ai-assessment-framework.git
+   git remote add upstream https://github.com/zlho/ai-assessment-framework.git
    ```
 
 ### Create a Branch

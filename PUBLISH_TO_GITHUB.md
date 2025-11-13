@@ -62,14 +62,14 @@ git commit -m "Initial release v1.0.0 - AI Assessment Framework
 
 ## Step 3: Connect to GitHub
 
-### Add remote (replace YOUR_USERNAME and YOUR_ORG):
+### Add remote (replace zlho and zlho):
 
 ```bash
 # If personal repository:
-git remote add origin https://github.com/YOUR_USERNAME/ai-assessment-framework.git
+git remote add origin https://github.com/zlho/ai-assessment-framework.git
 
 # If organization repository:
-git remote add origin https://github.com/YOUR_ORG/ai-assessment-framework.git
+git remote add origin https://github.com/zlho/ai-assessment-framework.git
 ```
 
 ### Verify remote:
@@ -174,7 +174,7 @@ Go to your repository URL and verify all files are present.
 ### Update placeholders in files:
 
 **Files to update:**
-- `README.md` - Replace `YOUR_ORG` with your GitHub org/username
+- `README.md` - Replace `zlho` with your GitHub org/username
 - All docs - Replace `cesar@alsolutions.com` with actual email
 - `docs/AI_Assessment_Framework_README.md` - Update contact information
 
@@ -241,7 +241,7 @@ git push
 4. Folder: `/docs`
 5. Save
 
-GitHub Pages URL will be: `https://YOUR_USERNAME.github.io/ai-assessment-framework/`
+GitHub Pages URL will be: `https://zlho.github.io/ai-assessment-framework/`
 
 ## Step 12: Promote Your Repository
 
@@ -288,7 +288,7 @@ Set up SSH keys or use HTTPS with personal access token:
 
 ```bash
 # Use HTTPS instead
-git remote set-url origin https://github.com/YOUR_USERNAME/ai-assessment-framework.git
+git remote set-url origin https://github.com/zlho/ai-assessment-framework.git
 
 # Or set up SSH keys
 # Follow: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
@@ -317,7 +317,7 @@ Check:
 
 ```bash
 # Clone your repository elsewhere
-git clone https://github.com/YOUR_USERNAME/ai-assessment-framework.git
+git clone https://github.com/zlho/ai-assessment-framework.git
 
 # Pull latest changes
 git pull origin main
