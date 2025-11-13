@@ -79,7 +79,7 @@ This is a comprehensive framework for assessing, approving, and implementing AI 
 
 ### 📁 File Locations
 
-All documents are in: `/Users/zakeryhough/Documents/AL work/ai-team/cesar-data/`
+All documents are in the `docs/` directory of this repository.
 
 ---
 
