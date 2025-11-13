@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Custom/local versions
+*_local.md
+*_custom.md
+
+# Secrets and sensitive data
+secrets/
+*.pem
+*.key
+credentials.json
